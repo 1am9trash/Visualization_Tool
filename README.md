@@ -39,3 +39,4 @@ Visualization-Tool
        ![](sample/sample1.png)
 
 - 工具輸出為graphviz的code，若電腦有graphviz的環境可直接生成png、pdf等格式的檔案，若沒有安裝，可用在線工具生成（如[網站](https://dreampuf.github.io/GraphvizOnline/)）
+- 檔案架構可兼容linux的```tree```指令，將```tree```指令的輸出加上方向跟形狀的參數即可
