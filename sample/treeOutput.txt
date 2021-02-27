@@ -1,0 +1,32 @@
+digraph G {
+    graph [rankdir=TD];
+    node [height=1.0 width=1.0 shape=circle];
+    {
+        0 [label="."]
+        1 [label="README.md"]
+        2 [label="other"]
+        3 [label="pla.py"]
+        4 [label="socket.py"]
+        5 [label="work1-regression"]
+        6 [label="README.md"]
+        7 [label="data"]
+        8 [label="sample_submission.csv"]
+        9 [label="test.csv"]
+        10 [label="train.csv"]
+        11 [label="main.py"]
+        12 [label="output"]
+        13 [label="predict.png"]
+        14 [label="submitAda.csv"]
+        15 [label="submitGD.csv"]
+        16 [label="trainingRate.png"]
+    }
+    0 -> {1, 2, 5}
+    2 -> {3, 4}
+    5 -> {6, 7, 11, 12}
+    7 -> {8, 9, 10}
+    12 -> {13, 14, 15, 16}
+    {rank=same; 0;}
+    {rank=same; 1; 2; 5;}
+    {rank=same; 3; 4; 6; 7; 11; 12;}
+    {rank=same; 8; 9; 10; 13; 14; 15; 16;}
+}

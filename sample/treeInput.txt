@@ -1,0 +1,18 @@
+TD circle
+.
+├── README.md
+├── other
+│   ├── pla.py
+│   └── socket.py
+└── work1-regression
+    ├── README.md
+    ├── data
+    │   ├── sample_submission.csv
+    │   ├── test.csv
+    │   └── train.csv
+    ├── main.py
+    └── output
+        ├── predict.png
+        ├── submitAda.csv
+        ├── submitGD.csv
+        └── trainingRate.png

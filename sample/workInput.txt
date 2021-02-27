@@ -1,0 +1,20 @@
+LR box
+02/27連假計畫
+    網頁
+        前端：php入門
+        後端：w3school sql
+    競技程式
+        Codeforces Global Round 13
+        週三集訓補題
+            搞懂CDQ分治
+        寒假作業補題
+    課程作業
+        電腦安全：DNS spoofing
+        機器學習：HW0
+        網頁設計：寄信
+    算法筆記
+        三分
+        CDQ分治
+    休閒
+        電影：The Last Castle
+        小說：三宮縋
