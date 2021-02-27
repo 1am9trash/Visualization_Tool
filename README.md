@@ -37,3 +37,5 @@ Visualization-Tool
     5. 視覺化：
        
        ![](sample/sample1.png)
+
+- 工具輸出為graphviz的code，若電腦有graphviz的環境可直接生成png、pdf等格式的檔案，若沒有安裝，可用在線工具生成（如![網站](https://dreampuf.github.io/GraphvizOnline/)）
